@@ -41,10 +41,11 @@
     color: white;
 }
 
-.table{
+table{
     width: 1000px;
     text-align: left;
-    border: hidden;
+    border-collapse: collapse;
+    
 }
 
 .first{
@@ -55,4 +56,14 @@
 .second{
     background-color: white;
     height: 50px;
+}
+
+h4{
+    color: rgb(82, 82, 82);
+}
+
+.first-img{
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    color: white;
 }
