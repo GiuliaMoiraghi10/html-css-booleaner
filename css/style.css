@@ -18,6 +18,7 @@
 
 .titolo{
     font-size: 40px;
+    margin-bottom: unset;
 }
 
 .the-booleaner{
@@ -27,5 +28,10 @@
 .didascalia{
     font-size: 10px;
     color: gray;
+    margin-top: unset;
+}
+
+.didascalia-foto{
+    font-size: 10px;
     margin-top: unset;
 }
