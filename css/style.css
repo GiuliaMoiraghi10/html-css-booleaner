@@ -1,6 +1,29 @@
 .background-header{
-    background-color: aqua;
+    background-color: rgb(83, 181, 238);
     background-image: url(../img/pattern.png);
-    background-size: cover;
+    background-size: contain;
+    background-position: center;
+    height: 70px;
 }
 
+#logo{
+    height: 40px;
+    margin-top: 20px;
+}
+
+.scritto{
+    color: gray;
+}
+
+.titolo{
+    font-size: 30px;
+}
+
+.the-booleaner{
+    color: rgb(83, 181, 238);
+}
+
+.didascalia{
+    font-size: 10px;
+    color: gray;
+}
