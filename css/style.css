@@ -13,10 +13,11 @@
 
 .scritto{
     color: gray;
+    margin: unset;
 }
 
 .titolo{
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .the-booleaner{
@@ -26,4 +27,5 @@
 .didascalia{
     font-size: 10px;
     color: gray;
+    margin-top: unset;
 }
