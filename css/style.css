@@ -39,5 +39,20 @@
 .thead{
     background-color: rgb(12, 158, 216);
     color: white;
-    font-size: bold;
+}
+
+.table{
+    width: 1000px;
+    text-align: left;
+    border: hidden;
+}
+
+.first{
+    background-color: rgb(117, 191, 240);
+    height: 50px;
+}
+
+.second{
+    background-color: white;
+    height: 50px;
 }
